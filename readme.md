@@ -1,26 +1,63 @@
-# Repositorio de Sistemas
-Repositorio con links a otros repositorios de proyectos o desarrollos activos, lista de integrantes y roles, lista de departamentos.
-Hay que mantener este repositorio actualizado.
+# Repositorio de Sistemas - Inkua ONG
 
-## Link Equipo Sistemas:
-- En Github: [Link](https://github.com/orgs/inkua/teams/sistemas) (Van a ver un error 404 si no son miembros. Creen un Issue o comenten en Discussions para que se los agregue como miembros)
+Este repositorio es parte de los proyectos de Inkua ONG y contiene enlaces a otros repositorios de proyectos o desarrollos activos, así como listas de integrantes, roles, y departamentos. Este es un espacio colaborativo donde los miembros del equipo de sistemas pueden contribuir, actualizar información y trabajar juntos en los diferentes proyectos.
 
-## Reuniones:
-- Lunes 14hs Arg. en el Discord de InkuA. 
+## Tabla de Contenidos
 
-## Links Repositorios
-- Desarrollo Website Inkua. [Link](https://github.com/inkua/Website)
+- [Descripción del Proyecto](#descripción-del-proyecto)
+- [Estructura del Repositorio](#estructura-del-repositorio)
+- [Contribuciones](#contribuciones)
+- [Reuniones](#reuniones)
+- [Departamentos](#departamentos)
+- [Recomendaciones](#recomendaciones)
+- [Manuales de Procedimientos](#manuales-de-procedimientos)
+- [Recursos](#recursos)
+
+## Descripción del Proyecto
+
+Este repositorio centraliza la información y los enlaces a los diferentes proyectos en los que estamos trabajando como parte del equipo de sistemas de Inkua ONG. Aquí encontrarás todo lo necesario para colaborar de manera efectiva en el desarrollo de nuestros proyectos.
+
+## Estructura del Repositorio
+
+- **`.vscode/`**: Configuración del editor de código Visual Studio Code.
+- **`assets/`**: Recursos gráficos y archivos multimedia.
+- **`documents/`**: Documentación, como actas de reuniones y guías.
+- **`projects/`**: Directorio que contiene los proyectos activos y sus desarrollos.
+- **`reports/`**: Informes y reportes de avance.
+- **`tutorials/`**: Guías y tutoriales para mejorar nuestras habilidades y flujos de trabajo.
+
+## Contribuciones
+
+Este repositorio es una plataforma para la colaboración entre los miembros del equipo de sistemas de Inkua. Si eres parte del equipo, asegúrate de:
+
+- Registrar tus actividades en la intranet al menos una vez por semana.
+- Participar en las reuniones semanales en Discord.
+- Contribuir con tus ideas y comentarios tanto en GitHub como en la intranet.
+- Revisar y trabajar en los issues pendientes dentro del repositorio.
+
+Si deseas unirte al equipo, crea un Issue o comenta en Discussions para que se te agregue como miembro.
+
+## Reuniones
+
+- **Día y hora**: Lunes, miercoles y viernes 14hs Arg.
+- **Lugar**: Discord de Inkua.
 
 ## Departamentos
-- Departamento de sistemas B
 
-## Recomendaciones Sistemas
-- Registrar en la intranet sobre nuestra actividad al menos una vez por semana.
-- Participar de las reuniones semanales en Discord del departamento.
-- Participar de los eventos de Inkua.
-- Realizar aportes y comentarios en la intranet y en GitHub.
-- Realizar reuniones con los demas miembros de la comunidad.
-- Ver y trabajar sobre los issues pendientes en el repositorio.
+- **Departamento de Sistemas B**: Aquí se centralizan las tareas y responsabilidades del equipo de sistemas.
+
+## Recomendaciones
+
+- Mantén actualizado tu registro de actividad en la intranet.
+- Asiste a las reuniones semanales.
+- Participa en los eventos organizados por Inkua.
+- Colabora y comparte tus conocimientos en GitHub y en la intranet.
+- Revisa regularmente los issues pendientes y ofrece tu ayuda para resolverlos.
 
 ## Manuales de Procedimientos
-> Completar
+
+En proceso de desarrollo. Pronto se completará con los procedimientos específicos de cada tarea y proyecto.
+
+## Recursos
+
+Este repositorio es un reflejo del trabajo colaborativo de los voluntarios de Inkua ONG. Como desarrollador frontend voluntario, he participado en la mejora continua de la interfaz y la usabilidad de los proyectos aquí alojados. 
